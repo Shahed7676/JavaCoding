@@ -3,7 +3,7 @@
 
 - 😎 I am Mechanical Engineer by degree 👨‍🎓 
     Software developer by Profession👨‍💻 .
-- 📫 Shoot me an [Email](mailto:shahedsk1234@gmail.com) or add me on [LinkedIn](https://https://www.linkedin.com/in/shahed-ul-islam) :)
+- 📫 Shoot me an [Email](mailto:shahedsk1234@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/shahed-ul-islam) :)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mastermind_shahid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahed-ul-islam) 
